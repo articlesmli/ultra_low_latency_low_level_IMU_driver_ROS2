@@ -1,0 +1,10 @@
+# ROS 2 build directories
+build/
+install/
+log/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
